@@ -34,4 +34,11 @@
   "use_linkai": true,
   "linkai_api_key": "Link_Ub74eqjum8qszE7h8tDlqAlXlNk3WtMsWWVH3wV67E",
   "linkai_app_code": "lGu6Y9iq"
+  "channel_type": "wechatcom_app",
+  "wechatcom_corp_id": "ww6896efbb92ecf952",  # 企业微信公司的corpID
+  "wechatcomapp_port": 9898,  # 企业微信app的服务端口, 不需要端口转发
+  "wechatcomapp_agent_id": "1000003",  # 企业微信app的agent_id
+  "wechatcomapp_secret": "O4vp2uAQUcSuHGczyV589u4o84I2g_-7Wrs64Neq8GE",  # 企业微信app的secret
+  "wechatcomapp_token": "JOMekd7ZplObMbLSe",  # 企业微信app的token
+  "wechatcomapp_aes_key": "SEsyhSvJJgDSb2kmjIO9R1HUdZWujSBiCAfc3dtN5Yv",  # 企业微信app的aes_key
 }
